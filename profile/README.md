@@ -1,6 +1,6 @@
 ## SUSD - Multichain Stablecoin
 
-The multichain stabecoin works over EVM chains
+The multichain stabecoin works across EVM chains
 
 ## How works
 
